@@ -22,7 +22,7 @@ Block.createBlock("bitTank", [{
 }], "tank");
 
 Block.setBlockMaterial("bitTank", "stone", 1);
-// Block.setDestroyLevel("bitTank", 1);
+Block.setDestroyLevel("bitTank", 1);
 ToolLib.addBlockDropOnExplosion("bitTank");
 
 Recipes.addShaped({

@@ -68,8 +68,6 @@ Block.setBlockMaterial("bitTank", "stone", 1);
 Block.setDestroyLevel("bitTank", 1);
 ToolLib.addBlockDropOnExplosion("bitTank");
 
-alert("/launched/");
-
 Recipes.addShaped({
 	id: BlockID.bitTank,
 	count: 1,
