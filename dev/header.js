@@ -24,3 +24,4 @@
 */
 
 IMPORT("ToolLib");
+IMPORT("MaterialType");
