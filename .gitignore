@@ -110,3 +110,6 @@ main.js
 # Chisels & Bits sources
 res/.source/
 dev/.source/
+
+# Dropbox sync
+.ttxfolder
